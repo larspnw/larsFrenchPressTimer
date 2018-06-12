@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="11" pc="268435456" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="14" pc="268435482" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="17" pc="268435493" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="18" pc="268435497" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="19" pc="268435515" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="22" pc="268435519" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="23" pc="268435523" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerDelegate.mc" lineNum="24" pc="268435541" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="9" pc="268435545" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="11" pc="268435549" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="16" pc="268435572" symbol="onStart"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="20" pc="268435577" symbol="onStop"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="24" pc="268435582" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="25" pc="268435586" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerApp.mc" lineNum="28" pc="268435610" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="32" pc="268435660" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="34" pc="268435664" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="38" pc="268435687" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="39" pc="268435691" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="50" pc="268435710" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="51" pc="268435750" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="52" pc="268435766" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="53" pc="268435782" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="54" pc="268435809" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="55" pc="268435849" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="56" pc="268435865" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="57" pc="268435881" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="58" pc="268435908" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="59" pc="268435948" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="60" pc="268435964" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="61" pc="268435980" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="62" pc="268436007" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="63" pc="268436047" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="64" pc="268436063" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="65" pc="268436076" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="66" pc="268436094" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="69" pc="268436121" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="72" pc="268436138" symbol="onLayout"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="75" pc="268436143" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="76" pc="268436147" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="77" pc="268436181" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="79" pc="268436222" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="80" pc="268436238" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="82" pc="268436254" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="85" pc="268436279" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="87" pc="268436283" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="90" pc="268436283" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="92" pc="268436303" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="93" pc="268436323" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="95" pc="268436339" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="97" pc="268436359" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="98" pc="268436379" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="100" pc="268436395" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="102" pc="268436415" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="103" pc="268436435" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="105" pc="268436451" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="107" pc="268436471" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="108" pc="268436491" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="110" pc="268436507" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="112" pc="268436527" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="113" pc="268436547" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="115" pc="268436563" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="117" pc="268436576" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="118" pc="268436596" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="123" pc="268436612" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="124" pc="268436648" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="125" pc="268436660" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="126" pc="268436692" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="127" pc="268436708" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="128" pc="268436774" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="129" pc="268436801" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="134" pc="268436862" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="136" pc="268436866" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="137" pc="268436877" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="140" pc="268436883" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="141" pc="268436893" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="143" pc="268436903" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="144" pc="268436914" symbol="formatTime"/>
+<entry filename="/home/lars/eclipse-workspace/larsFrenchPressTimer/./source/larsFrenchPressTimerView.mc" lineNum="146" pc="268436927" symbol="formatTime"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="10" symbol="dataColor"/>
+<entry field="true" id="11" symbol="vibrateData"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="20" symbol="limitPour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="22" object="true" symbol="larsFrenchPressTimerView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="14" symbol="POUR2"/>
+<entry field="true" id="13" symbol="POUR1"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="limitSteep"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="29" method="true" symbol="formatTime"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="28" method="true" symbol="startTimer"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry field="true" id="18" symbol="sTimerState"/>
+<entry field="true" id="17" symbol="mTimerState"/>
+<entry field="true" id="16" symbol="DRINK"/>
+<entry field="true" id="27" symbol="mParentView"/>
+<entry id="24" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="limitWait"/>
+<entry field="true" id="15" symbol="STEEP"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry id="23" module="true" symbol="Menus"/>
+<entry field="true" id="12" symbol="WAIT"/>
+<entry id="9" object="true" symbol="larsFrenchPressTimerApp"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435493" name="view" stackId="1" startPc="268435456"/>
+<entry endPc="268435577" name="state" stackId="1" startPc="268435572"/>
+<entry endPc="268435582" name="state" stackId="1" startPc="268435577"/>
+<entry endPc="268435659" name="mTimerView" stackId="1" startPc="268435586"/>
+<entry endPc="268436143" name="dc" stackId="1" startPc="268436138"/>
+<entry endPc="268436861" name="string" stackId="2" startPc="268436283"/>
+<entry endPc="268436862" name="dc" stackId="1" startPc="268436279"/>
+<entry endPc="268436939" name="iMin" stackId="2" startPc="268436866"/>
+<entry endPc="268436939" name="iSec" stackId="3" startPc="268436866"/>
+<entry endPc="268436940" name="iTime" stackId="1" startPc="268436862"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="InputDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="larsFrenchPressTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="larsFrenchPressTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="larsFrenchPressTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="larsFrenchPressTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="larsFrenchPressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="callback1" parent="larsFrenchPressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="larsFrenchPressTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="startTimer" parent="larsFrenchPressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="larsFrenchPressTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatTime" parent="larsFrenchPressTimerView">
+<param id="iTime"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="294" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="373" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="412" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="443" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="505" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="536" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="575" parentId="globals" symbolId="larsFrenchPressTimerApp" type="class"/>
+<dataEntry offset="646" parentId="globals" symbolId="InputDelegate" type="class"/>
+<dataEntry offset="717" parentId="globals" symbolId="larsFrenchPressTimerView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
